@@ -55,6 +55,15 @@ button:focus-visible {
   outline: 4px auto -webkit-focus-ring-color;
 }
 
+.label-login {
+  text-align: left;
+  padding-right: 27px;
+}
+
+.label-password {
+  padding-right: 2px;
+}
+
 @media (prefers-color-scheme: light) {
   :root {
     color: #213547;

@@ -1,10 +1,9 @@
 const Planet = () => {
   return (
     <div>
+      <div>Search for planets </div>
       <div>
-        <label htmlFor="username">Search: </label>
         <input id="search" type="text" placeholder="a" />
-        <button>Submit</button>
       </div>
       <section>
         <header>
