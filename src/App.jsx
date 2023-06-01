@@ -1,6 +1,6 @@
 import './App.css';
-import Login from './login';
-import Planet from './planet';
+import Login from './pages/login';
+import Planet from './pages/planet';
 
 function App() {
   return (
