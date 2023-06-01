@@ -12,7 +12,7 @@ const Login = () => {
       </div>
       <br/>
       <div>
-        <button>Submit</button>
+        <button onClick={() => window.location.pathname="/planet"}>Submit</button>
       </div>
     </div>
   )
