@@ -5,6 +5,9 @@ const Planet = () => {
       <div>
         <input id="search" type="text" placeholder="a" />
       </div>
+      {/*
+        * Replace the section below with the results of the search
+        */}
       <section>
         <header>
           <div className="col">Name</div>
